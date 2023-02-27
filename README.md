@@ -1,1 +1,1 @@
-# ferupp-android-demo
+# Faculty of Engineering - Android Demo (Java)
