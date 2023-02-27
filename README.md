@@ -1,1 +1,1 @@
-# Faculty of Engineering - Android Demo (Java)
+# RUPP - Faculty of Engineering - Android Demo (Java)
