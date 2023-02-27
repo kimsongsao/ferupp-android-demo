@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Visit Me</string>
+    <string name="fe_name">Faculty of Engineering</string>
+    <string name="major">Major</string>
+    <string name="it_engineering">IT Engineering</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="dob">DoB</string>
+    <string name="_01_jan_1990">01-Jan-1990</string>
+    <string name="pob">PoB</string>
+    <string name="sao_kimsong_rupp_edu_kh">sao.kimsong@rupp.edu.kh</string>
+    <string name="_123_st_01_phnom_penh">#123, St. 01, Phnom Penh</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phnom_penh">Phnom Penh</string>
+    <string name="kimsong_sao">Kimsong SAO</string>
+</resources>
