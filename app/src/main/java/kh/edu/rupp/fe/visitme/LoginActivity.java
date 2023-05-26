@@ -2,8 +2,6 @@ package kh.edu.rupp.fe.visitme;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Button;
-import android.widget.EditText;
 import android.widget.Toast;
 
 import androidx.annotation.Nullable;
@@ -20,9 +18,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityLoginBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-        binding.buttonLogin.setOnClickListener(v -> {
-            navigateToMain();
-        });
+        binding.buttonLogin.setOnClickListener(v -> navigateToMain());
     }
 
     private void navigateToMain() {
