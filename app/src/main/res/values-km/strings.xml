@@ -30,4 +30,9 @@
     <string name="project_practicum">ការអនុវត្តគម្រោង</string>
     <string name="advanced_hands_on_course_builds_on_the_project_managers_previously_acquired">Advanced hands-on course builds on the project managers\' previously acquired...</string>
     <string name="all_courses">វគ្គសិក្សាទាំងអស់</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="or_login_with">or login with</string>
 </resources>

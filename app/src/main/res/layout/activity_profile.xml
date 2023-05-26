@@ -18,6 +18,7 @@
             android:padding="16dp">
 
             <ImageView
+                android:id="@+id/imgBack"
                 android:contentDescription="@string/fe_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
