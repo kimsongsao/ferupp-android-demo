@@ -1,25 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Visit Me</string>
-    <string name="fe_name">Faculty of Engineering</string>
-    <string name="major">Major</string>
-    <string name="it_engineering">IT Engineering</string>
-    <string name="gender">Gender</string>
-    <string name="male">Male</string>
-    <string name="dob">DoB</string>
-    <string name="_01_jan_1990">01-Jan-1990</string>
-    <string name="pob">PoB</string>
-    <string name="sao_kimsong_rupp_edu_kh">sao.kimsong@rupp.edu.kh</string>
-    <string name="_123_st_01_phnom_penh">#123, St. 01, Phnom Penh</string>
-    <string name="address">Address</string>
-    <string name="email">Email</string>
-    <string name="phnom_penh">Phnom Penh</string>
-    <string name="kimsong_sao">Kimsong SAO</string>
-    <string name="sok_sao">Sok Sao</string>
-    <!--Main-->
     <string name="hello_kim">Hello, Kim!</string>
     <string name="continue_to_mobile_dev_course">Continue to \nMobile Dev. Course</string>
-    <string name="completed_65">65% Complete</string>
-    <string name="search_hint">Search ...</string>
     <string name="popular_courses">Popular Courses</string>
     <string name="see_all">See All</string>
     <string name="software_engineering">Software Engineering</string>

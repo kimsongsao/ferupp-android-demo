@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visit Me</string>
+    <string name="fe_name">Faculty of Engineering</string>
+    <string name="major">Major</string>
+    <string name="it_engineering">IT Engineering</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="dob">DoB</string>
+    <string name="_01_jan_1990">01-Jan-1990</string>
+    <string name="pob">PoB</string>
+    <string name="sao_kimsong_rupp_edu_kh">sao.kimsong@rupp.edu.kh</string>
+    <string name="_123_st_01_phnom_penh">#123, St. 01, Phnom Penh</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phnom_penh">Phnom Penh</string>
+    <string name="kimsong_sao">Kimsong SAO</string>
+    <string name="sok_sao">Sok Sao</string>
+    <!--Main-->
+    <string name="hello_kim">សួរស្ដី, គីម!</string>
+    <string name="continue_to_mobile_dev_course">បន្តទៅកាន់វគ្គសិក្សា \nការអភិវឌ្ឍន៍កម្មវិធី នៅលើទូរស័ព្ទ</string>
+    <string name="completed_65">៦៥% បានបញ្ជប់</string>
+    <string name="search_hint">ស្វែងរក ...</string>
+    <string name="popular_courses">វគ្គសិក្សាពេញនិយម</string>
+    <string name="see_all">មើលទាំងអស់</string>
+    <string name="software_engineering">វិស្វកម្មកម្មវិធី</string>
+    <string name="web_and_cloud_technologies">Web and Cloud Technologies</string>
+    <string name="mobile_application_dev_i">ការអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទ I</string>
+    <string name="explore_the_power_of_android_napplication_development">យល់ដឹងពីថាមពលនៃការអភិវឌ្ឍន៍កម្មវិធី Android</string>
+    <string name="project_practicum">ការអនុវត្តគម្រោង</string>
+    <string name="advanced_hands_on_course_builds_on_the_project_managers_previously_acquired">Advanced hands-on course builds on the project managers\' previously acquired...</string>
+    <string name="all_courses">វគ្គសិក្សាទាំងអស់</string>
+</resources>

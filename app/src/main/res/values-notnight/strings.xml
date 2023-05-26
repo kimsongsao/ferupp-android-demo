@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_kim">Hello, Kim!</string>
+    <string name="continue_to_mobile_dev_course">Continue to \nMobile Dev. Course</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="see_all">See All</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="web_and_cloud_technologies">Web and Cloud Technologies</string>
+    <string name="explore_the_power_of_android_napplication_development">Explore the power of android \napplication development</string>
+</resources>
