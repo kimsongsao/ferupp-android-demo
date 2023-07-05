@@ -18,6 +18,7 @@ public class ProfileActivity extends AppCompatActivity {
         binding = ActivityProfileBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         Intent intent = getIntent();
+        intent.getStringExtra("id");
         // Toast.makeText(this, intent.getStringExtra("message"), Toast.LENGTH_SHORT);
         binding.imgBack.setOnClickListener(v->finish());
     }

@@ -1,29 +1,15 @@
 package kh.edu.rupp.fe.visitme;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatDelegate;
-import androidx.core.os.LocaleListCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import android.content.Intent;
-import android.content.res.Configuration;
-import android.media.MediaPlayer;
-import android.net.Uri;
 import android.os.Bundle;
-import android.view.MenuItem;
-import android.widget.MediaController;
-import android.widget.VideoView;
-
-import com.google.android.material.navigation.NavigationBarView;
-
-import java.util.Locale;
 
 import kh.edu.rupp.fe.visitme.databinding.ActivityMainBinding;
 import kh.edu.rupp.fe.visitme.fragments.AccountFragment;
-import kh.edu.rupp.fe.visitme.fragments.ChatFragment;
+import kh.edu.rupp.fe.visitme.fragments.ProductFragment;
 import kh.edu.rupp.fe.visitme.fragments.CourseFragment;
 import kh.edu.rupp.fe.visitme.fragments.HomeFragment;
 import kh.edu.rupp.fe.visitme.fragments.MoreFragment;
@@ -43,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             } else if (item.getItemId() == R.id.navCourses) {
                 navigateFragment(new CourseFragment());
             } else if (item.getItemId() == R.id.navChat) {
-                navigateFragment(new ChatFragment());
+                navigateFragment(new ProductFragment());
             } else if (item.getItemId() == R.id.navAccount) {
                 navigateFragment(new AccountFragment());
             } else if (item.getItemId() == R.id.navMore) {
